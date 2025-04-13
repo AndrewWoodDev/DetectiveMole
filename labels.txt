@@ -1,0 +1,6 @@
+# Class index mappings (used by the model)
+0 Class A
+1 Class B
+2 Class C
+3 Class D
+4 Class E

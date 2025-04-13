@@ -1,0 +1,2 @@
+# Required Python packages for the application
+tensorflow==2.12.0  # Deep learning framework used to run the Keras model

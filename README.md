@@ -2,6 +2,8 @@
 
 Detective Mole is a playful yet powerful image classifier that helps identify different types of skin conditions from photos of moles. Powered by a trained TensorFlow model, this web app offers immediate visual feedback and diagnosis insight in an engaging, friendly tone.
 
+This project is for demonstration purposes only and not intended for medical diagnosis.
+
 ## Features
 
 - Upload skin lesion images and receive instant classification.
@@ -26,5 +28,3 @@ Installation
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
-This project is for demonstration purposes only and not intended for medical diagnosis.
